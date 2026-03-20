@@ -1,0 +1,10 @@
+{
+  "firmware": {
+    "version": "0.2.0",
+    "url": "https://raw.githubusercontent.com/janholtzhausen/cyd-pokedex-updates/main/firmware/firmware.bin"
+  },
+  "assets": {
+    "version": "0.2.0",
+    "index_url": "https://raw.githubusercontent.com/janholtzhausen/cyd-pokedex-updates/main/asset-manifest.txt"
+  }
+}
