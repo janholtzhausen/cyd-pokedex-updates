@@ -1059,3 +1059,4 @@ sprites_raw/996.raw|45000|https://raw.githubusercontent.com/janholtzhausen/cyd-p
 sprites_raw/997.raw|45000|https://raw.githubusercontent.com/janholtzhausen/cyd-pokedex-updates/main/assets/sprites_raw/997.raw
 sprites_raw/998.raw|45000|https://raw.githubusercontent.com/janholtzhausen/cyd-pokedex-updates/main/assets/sprites_raw/998.raw
 sprites_raw/999.raw|45000|https://raw.githubusercontent.com/janholtzhausen/cyd-pokedex-updates/main/assets/sprites_raw/999.raw
+update-test.txt|50|https://raw.githubusercontent.com/janholtzhausen/cyd-pokedex-updates/main/assets/update-test.txt
