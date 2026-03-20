@@ -1,12 +1,12 @@
 {
   "firmware": {
-    "version": "0.2.4",
+    "version": "0.2.5",
     "url": "https://raw.githubusercontent.com/janholtzhausen/cyd-pokedex-updates/main/firmware/firmware.bin",
     "size": 2325936,
-    "sha256": "27dcb5426bceabd9767bcf256ad38a9c6658535ce132c7f6ca433212605d2890"
+    "sha256": "837476dafff4b9742c7bb819a40d4b765d41959bb0af05b78122cfbd3c8cfd59"
   },
   "assets": {
-    "version": "0.2.4",
+    "version": "0.2.5",
     "index_url": "https://raw.githubusercontent.com/janholtzhausen/cyd-pokedex-updates/main/asset-manifest.txt"
   }
 }

@@ -1,1 +1,1 @@
-OTA and asset sync test marker for firmware 0.2.4
+OTA and asset sync test marker for firmware 0.2.5
